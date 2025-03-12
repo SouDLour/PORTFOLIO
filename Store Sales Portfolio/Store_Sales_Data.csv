@@ -1,0 +1,37 @@
+OrderID,CustomerID,ProductName,Category,Quantity,UnitPrice,OrderDate,City,State,Age,Gender
+ORD-20230105-001,CUST-0001,Laptop,Electronics,1,1150,1/5/2023,New York,NY,35,Male
+ORD-20230107-002,CUST-0002,Headphones,Electronic,2,85,1/7/2023,Los Angeles,CA,28,Female
+ORD-20230110-003,CUST-0003,T-shirt,Clothing,3,30,1/10/2023,Chicago,IL,42,Male
+ORD-20230112-004,CUST-0004,Coffee Maker,Home Appliances,1,72,1/12/2023,Houston,TX,51,Female
+ORD-20230115-005,CUST-0005,Notebook,Office Supplies,5,7,1/15/2023,Phoenix,AZ,22,Male
+ORD-20230118-006,CUST-0006,Laptop,Electronics,1,1250,1/18/2023,Philadelphia,PA,39,Female
+ORD-20230120-007,CUST-0007,Headphones,Electronics,2,95,1/20/2023,San Antonio,TX,48,Male
+ORD-20230122-008,CUST-0008,T-shirt,Clothing,3,22,1/22/2023,San Diego,CA,29,Female
+ORD-20230125-009,CUST-0009,Coffee Maker,Home Appliances,1,88,1/25/2023,Dallas,TX,55,Female
+ORD-20230128-010,CUST-0010,Notebook,Office Supplies,5,4,1/28/2023,San Jose,CA,26,Male
+ORD-20230215-011,CUST-0011,Laptop,Electronics,1,1180,2/15/2023,Austin,TX,33,Female
+ORD-20230217-012,CUST-0012,Headphones,Electronics,2,110,2/17/2023,Jacksonville,FL,45,Male
+ORD-20230220-013,CUST-0013,T-shirt,Clothing,3,28,2/20/2023,San Francisco,CA,31,Female
+ORD-20230222-014,CUST-0014,Coffee Maker,Home Appliances,1,78,2/22/2023,Columbus,OH,58,Female
+ORD-20230225-015,CUST-0015,Notebook,Office Supplies,5,6,2/25/2023,Charlotte,NC,24,Male
+ORD-20230302-016,CUST-0016,Laptop,Electronics,1,1220,3/2/2023,Indianapolis,IN,41,Female
+ORD-20230304-017,CUST-0017,Headphones,Electronics,2,90,3/4/2023,Seattle,WA,37,Male
+ORD-20230307-018,CUST-0018,T-shirt,Clothing,3,26,3/7/2023,Denver,CO,30,Female
+ORD-20230309-019,CUST-0019,Coffee Maker,Home Appliances,1,82,3/9/2023,Washington,DC,53,Female
+ORD-20230312-020,CUST-0020,Notebook,Office Supplies,5,8,3/12/2023,Boston,MA,27,Male
+ORD-20230415-021,CUST-0021,Laptop,Electronics,1,1190,4/15/2023,Nashville,TN,36,Female
+ORD-20230417-022,CUST-0022,Headphones,Electronics,2,105,4/17/2023,Baltimore,MD,49,Female
+ORD-20230420-023,CUST-0023,T-shirt,Clothing,3,29,4/20/2023,Oklahoma City,OK,32,Female
+ORD-20230422-024,CUST-0024,Coffee Maker,Home Appliances,1,75,4/22/2023,Louisville,KY,60,Female
+ORD-20230425-025,CUST-0025,Notebook,Office Supplies,5,5,4/25/2023,Portland,OR,23,Male
+ORD-20230502-026,CUST-0026,Laptop,Electronics,1,1210,5/2/2023,Milwaukee,WI,43,Female
+ORD-20230504-027,CUST-0027,Headphones,Electronics,2,98,5/4/2023,Las Vegas,NV,38,Male
+ORD-20230507-028,CUST-0028,T-shirt,Clothing,3,24,5/7/2023,Albuquerque,NM,34,Female
+ORD-20230509-029,CUST-0029,Coffee Maker,Home Appliances,1,85,5/9/2023,Tucson,AZ,56,Female
+ORD-20230512-030,CUST-0030,Notebook,Office Supplies,5,9,5/12/2023,Fresno,CA,25,Male
+ORD-20230615-031,CUST-0031,Laptop,Electronics,1,1170,6/15/2023,Sacramento,CA,40,Female
+ORD-20230617-032,CUST-0032,Headphones,Electronics,2,102,6/17/2023,Long Beach,CA,52,Male
+ORD-20230620-033,CUST-0033,T-shirt,Clothing,3,27,6/20/2023,Oakland,CA,21,Female
+ORD-20230622-034,CUST-0034,Coffee Maker,Home Appliances,1,80,6/22/2023,Tampa,FL,47,Male
+ORD-20230625-035,CUST-0035,Notebook,Office Supplies,5,3,6/25/2023,Orlando,FL,39,Male
+ORD-20230702-036,CUST-0036,Laptop,Electronics,1,1230,7/2/2023,Mesa,AZ,33,Male
