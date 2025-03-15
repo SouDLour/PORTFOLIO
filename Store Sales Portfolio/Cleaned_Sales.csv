@@ -1,0 +1,35 @@
+OrderID,CustomerID,ProductName,Category,Quantity,UnitPrice,City,State,Age,Gender,Gender Code
+ORD-20230105-001,CUST-0001,Mouse,Electronics,1,65.99,New York,NY,35,Male,1
+ORD-20230107-002,CUST-0002,Keyboard,Electronics,2,120.5,Los Angeles,CA,28,Female,0
+ORD-20230110-003,CUST-0003,Jeans,Clothing,3,45.75,Chicago,IL,42,Male,1
+ORD-20230112-004,CUST-0004,Blender,Home Appliances,1,90.2,Houston,TX,51,Female,0
+ORD-20230115-005,CUST-0005,Pens,Office Supplies,5,3.99,Phoenix,AZ,22,Male,1
+ORD-20230118-006,CUST-0006,Tablet,Electronics,1,350.0,Philadelphia,PA,39,Female,0
+ORD-20230120-007,CUST-0007,Speaker,Electronics,2,70.8,San Antonio,TX,48,Male,1
+ORD-20230122-008,CUST-0008,Socks,Clothing,3,15.5,San Diego,CA,29,Female,0
+ORD-20230125-009,CUST-0009,Toaster,Home Appliances,1,55.3,Dallas,TX,55,Female,0
+ORD-20230128-010,CUST-0010,Folders,Office Supplies,5,6.25,San Jose,CA,26,Male,1
+ORD-20230215-011,CUST-0011,Monitor,Electronics,1,280.99,Austin,TX,33,Female,0
+ORD-20230217-012,CUST-0012,Printer,Electronics,2,150.75,Jacksonville,FL,45,Male,1
+ORD-20230220-013,CUST-0013,Jacket,Clothing,3,60.0,San Francisco,CA,31,Female,0
+ORD-20230222-014,CUST-0014,Microwave,Home Appliances,1,120.4,Columbus,OH,58,Female,0
+ORD-20230225-015,CUST-0015,Stapler,Office Supplies,5,4.5,Charlotte,NC,24,Male,1
+ORD-20230302-016,CUST-0016,Camera,Electronics,1,450.25,Indianapolis,IN,41,Female,0
+ORD-20230304-017,CUST-0017,Router,Electronics,2,80.1,Seattle,WA,37,Male,1
+ORD-20230307-018,CUST-0018,Shorts,Clothing,3,35.99,Denver,CO,30,Female,0
+ORD-20230309-019,CUST-0019,Vacuum,Home Appliances,1,180.6,Washington,DC,53,Female,0
+ORD-20230312-020,CUST-0020,Paper,Office Supplies,5,2.75,Boston,MA,27,Male,1
+ORD-20230415-021,CUST-0021,Smartwatch,Electronics,1,220.0,Nashville,TN,36,Female,0
+ORD-20230417-022,CUST-0022,External Drive,Electronics,2,95.5,Baltimore,MD,49,Female,0
+ORD-20230420-023,CUST-0023,Dress,Clothing,3,75.2,Oklahoma City,OK,32,Female,0
+ORD-20230422-024,CUST-0024,Air Fryer,Home Appliances,1,110.8,Louisville,KY,60,Female,0
+ORD-20230425-025,CUST-0025,Calculator,Office Supplies,5,8.99,Portland,OR,23,Male,1
+ORD-20230502-026,CUST-0026,TV,Electronics,1,550.75,Milwaukee,WI,43,Female,0
+ORD-20230504-027,CUST-0027,USB Drive,Electronics,2,25.0,Las Vegas,NV,38,Male,1
+ORD-20230507-028,CUST-0028,Sweater,Clothing,3,50.6,Albuquerque,NM,34,Female,0
+ORD-20230509-029,CUST-0029,Iron,Home Appliances,1,60.25,Tucson,AZ,56,Female,0
+ORD-20230512-030,CUST-0030,Tape,Office Supplies,5,1.5,Fresno,CA,25,Male,1
+ORD-20230615-031,CUST-0031,Projector,Electronics,1,380.99,Sacramento,CA,40,Female,0
+ORD-20230617-032,CUST-0032,Modem,Electronics,2,75.1,Long Beach,CA,52,Male,1
+ORD-20230620-033,CUST-0033,Pants,Clothing,3,40.75,Oakland,CA,21,Female,0
+ORD-20230622-034,CUST-0034,Fridge,Home Appliances,1,600.0,Tampa,FL,47,Male,1
