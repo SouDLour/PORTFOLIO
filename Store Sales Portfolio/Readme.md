@@ -1,4 +1,8 @@
-# About:
+## YUR E-Com Store Analysis
+
+### PDF Report (store_sales_project_portfolio1.pdf) Located Here:
+
+[store_sales_project_portfolio1.pdf - Google Drive](https://drive.google.com/file/d/15OoTn0-UmCm9ck3kPhnGHCKQYSEM0QWL/view)
 
 ### store_project_analysis.ipynb
 
